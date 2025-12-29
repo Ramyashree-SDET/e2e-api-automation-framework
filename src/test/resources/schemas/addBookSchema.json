@@ -1,0 +1,13 @@
+{
+  "type": "object",
+  "required": ["Msg", "ID"],
+  "properties": {
+    "Msg": {
+      "type": "string"
+    },
+    "ID": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": false
+}
